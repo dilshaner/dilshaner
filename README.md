@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **RUST**
 
-- 👨‍💻 All of my projects are available at [dilshaner.com](dilshaner.com)
-
-- 📝 I regularly write articles on [dilshaner.com/blog](dilshaner.com/blog)
+- 👨‍💻 All of my projects are available at [Dilshaner.com](Dilshaner.com)
 
 - 💬 Ask me about **Crypto & Blockchain**
 
